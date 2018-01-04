@@ -1,4 +1,4 @@
-# Awesome USD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Voxel [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Projects and resources relating to coding for Voxels
 
@@ -22,7 +22,7 @@ Key -
 
 ## Sparse Volumes
 
-- [OpenVdb](http://www.openvdb.org/) :page_facing_up: Dreamworks' hierarchical sparse volume representation and manipulation library
+- [OpenVdb](http://www.openvdb.org/) :computer: Dreamworks' hierarchical sparse volume representation and manipulation library
 
 ## Mapping
 
@@ -35,20 +35,19 @@ Key -
 
 ## Wavefront Collapse
 
-- [VoxModSynth](https://github.com/sylefeb/VoxModSynth) :page_facing_up:  C++ implementation of wave function collabse for model synthesis
+- [VoxModSynth](https://github.com/sylefeb/VoxModSynth) :computer:  C++ implementation of wave function collabse for model synthesis
 
 ## Deformations
 
-- [VolumeDeform](https://graphics.stanford.edu/~niessner/papers/2016/5volumeDeform/innmannn2016deform.pdf) :notebook: VolumeDeform: Real-time Volumetric Non-rigid Reconstruction
+- [VolumeDeform](https://graphics.stanford.edu/~niessner/papers/2016/5volumeDeform/innmannn2016deform.pdf) :page-facing-up: VolumeDeform: Real-time Volumetric Non-rigid Reconstruction
 
 ## Rendering
 
-- [Voxel Rendering Techniques](https://medium.com/@fogleman/voxel-rendering-techniques-fa8d869457ca) Optimal triangulation & more
+- [Voxel Rendering Techniques](https://medium.com/@fogleman/voxel-rendering-techniques-fa8d869457ca) :page-facing-up: Optimal triangulation & more
 
 ## Tools
 
 - [MagicaVoxel](https://ephtracy.github.io) :art: MagicaVoxel Editor and Visualizer
-- [Minecraft] :art: Minecraft
 - [Goxel](http://guillaumechereau.github.io/goxel/) :computer: :art: Open Source 3D voxel editor for Mac, Windows, iOS, and Linux.
 
 
