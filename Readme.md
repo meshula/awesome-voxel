@@ -10,10 +10,10 @@ Key -
 
 ## Contents
 
-- [Sparse Volumes](#sparse volumes)
+- [Sparse Volumes](#sparse-volumes)
 - [Mapping](#mapping)
 - [Voxelizers](#voxelizers)
-- [Wavefront Collapse](#wavefront collapse)
+- [Wavefront Collapse](#wavefront-collapse)
 - [Deformations](#deformations)
 - [Rendering](#rendering)
 - [Tools](#tools)
@@ -39,11 +39,11 @@ Key -
 
 ## Deformations
 
-- [VolumeDeform](https://graphics.stanford.edu/~niessner/papers/2016/5volumeDeform/innmannn2016deform.pdf) :page-facing-up: VolumeDeform: Real-time Volumetric Non-rigid Reconstruction
+- [VolumeDeform](https://graphics.stanford.edu/~niessner/papers/2016/5volumeDeform/innmannn2016deform.pdf) :page_facing_up: VolumeDeform: Real-time Volumetric Non-rigid Reconstruction
 
 ## Rendering
 
-- [Voxel Rendering Techniques](https://medium.com/@fogleman/voxel-rendering-techniques-fa8d869457ca) :page-facing-up: Optimal triangulation & more
+- [Voxel Rendering Techniques](https://medium.com/@fogleman/voxel-rendering-techniques-fa8d869457ca) :page_facing_up: Optimal triangulation & more
 
 ## Tools
 
