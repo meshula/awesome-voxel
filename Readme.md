@@ -49,7 +49,7 @@ Key -
 
 - [MagicaVoxel](https://ephtracy.github.io) :art: MagicaVoxel Editor and Visualizer
 - [Goxel](http://guillaumechereau.github.io/goxel/) :computer: :art: Open Source 3D voxel editor for Mac, Windows, iOS, and Linux.
-
+- [VoxQL](https://github.com/heptal/VoxQL) :art: QuickLook Generator for MagicaVoxel files on Mac.
 
 ## Contribute
 
