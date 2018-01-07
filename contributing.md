@@ -9,9 +9,11 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - Project is related to coding for voxels
-- The project isn't already listed
 - This isn't a collection of art - there are great resources elsewhere to discover art
 - The pull request should include a sentence describing the project
+- If copyleft, the project must be suitable for use in Blender. copyleft must be flagged.
+- The library should have a certain level of maturity, be actively developed and used.
+- If not mature or active, it should demonstrate a unique concept, or be historically signifcant.
 
 Thank you for your suggestions!
 
