@@ -11,6 +11,7 @@ Key -
 ## Contents
 
 - [Sparse Volumes](#sparse-volumes)
+- [File Loaders](#file-loaders)
 - [Mapping](#mapping)
 - [Voxelizers](#voxelizers)
 - [Wavefront Collapse](#wavefront-collapse)
@@ -24,6 +25,10 @@ Key -
 
 - [OpenVdb](http://www.openvdb.org/) :computer: Dreamworks' hierarchical sparse volume representation and manipulation library
 - [OctoMap](http://octomap.github.io/) :computer: :art: An Efficient Probabilistic 3D Mapping Framework Based on Octrees
+
+## File Loaders
+
+- [EnkiMI](https://github.com/dougbinks/enkiMI) Enki Minecraft file loader
 
 ## Mapping
 
