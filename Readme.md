@@ -39,6 +39,7 @@ Key -
 - [VoxSurf](https://github.com/sylefeb/VoxSurf) :computer: :art: C++ surface voxelizer; converts STL files to VOX files
 - [SdfGen](https://github.com/christopherbatty/SDFGen) :computer: :art: commandline utility to generate grid-based signed distance fields from triangle meshes
 - [Voxelizer](https://github.com/karimnaaji/voxelizer) :computer: Header only voxelizer in C
+- [Discregid](https://github.com/InteractiveComputerGraphics/Discregrid) Discretize signed distance fields, includes cubic interpolation
 
 ## Wavefront Collapse
 
