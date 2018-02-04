@@ -17,6 +17,7 @@ Key -
 - [Wavefront Collapse](#wavefront-collapse)
 - [Deformations](#deformations)
 - [Rendering](#rendering)
+- [Physics](#physics)
 - [Tools](#tools)
 - [Contribute](#contribute)
 - [License](#license)
@@ -55,6 +56,10 @@ Key -
 - [CPU Sparse Voxel Octree](https://github.com/tunabrain/sparse-voxel-octrees) :computer: tunabrain's SVO raytracer
 - [Efficient Sparse Voxel Octrees](http://research.nvidia.com/publication/efficient-sparse-voxel-octrees) :computer: :page_facing_up: Efficient Spare Volume Octrees by Laine and Karras
 - [Voxlap](http://advsys.net/ken/voxlap.htm) :computer: Ken Silverman's influential early voxel terrain engine. It's currently not that easy to compile, but it of definite historical interest.
+
+## Physics
+
+- [Terrain Physics](https://zeuxcg.org/2017/12/30/voxel-terrain-physics/) :page_facing_up: Voxel Terrain Physics and Collision
 
 ## Tools
 
