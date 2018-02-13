@@ -62,6 +62,10 @@ Key -
 
 - [Terrain Physics](https://zeuxcg.org/2017/12/30/voxel-terrain-physics/) :page_facing_up: Voxel Terrain Physics and Collision
 
+## Shading
+
+- [Eric's MagicaVoxel Shaders](https://github.com/CodingEric/Erics-MagicaVoxel-Shaders-Collection) :computer:
+
 ## Tools
 
 - [MagicaVoxel](https://ephtracy.github.io) :art: MagicaVoxel Editor and Visualizer
