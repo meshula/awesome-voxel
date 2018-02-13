@@ -18,6 +18,7 @@ Key -
 - [Deformations](#deformations)
 - [Rendering](#rendering)
 - [Physics](#physics)
+- [Proceduralism](#proceduralism)
 - [Tools](#tools)
 - [Contribute](#contribute)
 - [License](#license)
@@ -62,7 +63,7 @@ Key -
 
 - [Terrain Physics](https://zeuxcg.org/2017/12/30/voxel-terrain-physics/) :page_facing_up: Voxel Terrain Physics and Collision
 
-## Shading
+## Proceduralism
 
 - [Eric's MagicaVoxel Shaders](https://github.com/CodingEric/Erics-MagicaVoxel-Shaders-Collection) :computer:
 
