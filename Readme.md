@@ -43,6 +43,7 @@ Key -
 - [Voxelizer](https://github.com/karimnaaji/voxelizer) :computer: Header only voxelizer in C
 - [Discregid](https://github.com/InteractiveComputerGraphics/Discregrid) Discretize signed distance fields, includes cubic interpolation
 - [Haar Tree](https://github.com/mikolalysenko/haar-tree-3d) :computer: Haar Tree
+- [https://github.com/nickgildea/fast_dual_contouring] Dual contouring, includes a SIMD QEF implementation
 
 ## Wavefront Collapse
 
