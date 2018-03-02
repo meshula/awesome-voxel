@@ -27,6 +27,7 @@ Key -
 
 - [OpenVdb](http://www.openvdb.org/) :computer: Dreamworks' hierarchical sparse volume representation and manipulation library
 - [OctoMap](http://octomap.github.io/) :computer: :art: An Efficient Probabilistic 3D Mapping Framework Based on Octrees
+- [http://www.merl.com/publications/docs/TR2000-15.pdf] :page_facing_up: Adaptively Sampled Distance Fields (Siggraph 2000)
 
 ## File Loaders
 
