@@ -36,6 +36,7 @@ Key -
 ## Mapping
 
 - [voxblox](https://github.com/ethz-asl/voxblox) :computer: :art:  A volumetric library that stores Truncated Signed Distance Fields in voxels
+- [tsdf Fusion](https://github.com/andyzeng/tsdf-fusion) :computer: Fusing Truncated Signed Distance Files
 
 ## Voxelizers
 
