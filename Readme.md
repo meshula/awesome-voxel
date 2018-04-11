@@ -14,6 +14,7 @@ Key -
 - [File Loaders](#file-loaders)
 - [Mapping](#mapping)
 - [Voxelizers](#voxelizers)
+- [Surfacers](#surfacers)
 - [Wavefront Collapse](#wavefront-collapse)
 - [Deformations](#deformations)
 - [Rendering](#rendering)
@@ -45,6 +46,9 @@ Key -
 - [Voxelizer](https://github.com/karimnaaji/voxelizer) :computer: Header only voxelizer in C
 - [Discregid](https://github.com/InteractiveComputerGraphics/Discregrid) Discretize signed distance fields, includes cubic interpolation
 - [Haar Tree](https://github.com/mikolalysenko/haar-tree-3d) :computer: Haar Tree
+
+## Surfacers
+- [https://github.com/emilk/Dual-Contouring] :computer: Dual Contouring
 - [https://github.com/nickgildea/fast_dual_contouring] Dual contouring, includes a SIMD QEF implementation
 - [https://github.com/Lin20/BinaryMeshFitting] :computer: Another contouring scheme, includes QEF 
 
