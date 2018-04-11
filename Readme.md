@@ -51,6 +51,7 @@ Key -
 - [https://github.com/emilk/Dual-Contouring] :computer: Dual Contouring
 - [https://github.com/nickgildea/fast_dual_contouring] Dual contouring, includes a SIMD QEF implementation
 - [https://github.com/Lin20/BinaryMeshFitting] :computer: Another contouring scheme, includes QEF 
+- [https://github.com/tdhooper/glsl-marching-cubes] :computer: Marching Cubes
 
 ## Wavefront Collapse
 
