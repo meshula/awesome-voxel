@@ -46,6 +46,7 @@ Key -
 - [Voxelizer](https://github.com/karimnaaji/voxelizer) :computer: Header only voxelizer in C
 - [Discregid](https://github.com/InteractiveComputerGraphics/Discregrid) Discretize signed distance fields, includes cubic interpolation
 - [Haar Tree](https://github.com/mikolalysenko/haar-tree-3d) :computer: Haar Tree
+- [Voxel Hashing](https://github.com/niessner/VoxelHashing) :computer: Voxel Hashing, by Niessner et al, Siggraph Asia 2017
 
 ## Surfacers
 - [https://github.com/emilk/Dual-Contouring] :computer: Dual Contouring
