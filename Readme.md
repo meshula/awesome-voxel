@@ -36,6 +36,7 @@ Key -
 
 ## Mapping
 
+- [https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf] :page_facing_up: State of the Art on 3D Reconstruction with RGB-D Cameras
 - [voxblox](https://github.com/ethz-asl/voxblox) :computer: :art:  A volumetric library that stores Truncated Signed Distance Fields in voxels
 - [tsdf Fusion](https://github.com/andyzeng/tsdf-fusion) :computer: Fusing Truncated Signed Distance Files
 
