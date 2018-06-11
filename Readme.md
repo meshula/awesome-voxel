@@ -71,7 +71,6 @@ Key -
 - [Voxlap](http://advsys.net/ken/voxlap.htm) :computer: Ken Silverman's influential early voxel terrain engine. It's currently not that easy to compile, but it of definite historical interest.
 - [https://github.com/s-macke/VoxelSpace] VoxelSpace - old school height map rendering
 - [https://github.com/tommyettinger/IsoVoxel] IsoVoxel - render isometric views of VOX files
-- [https://github.com/StijnBrouwer/vox2png] Vox2Png - render VOX files out to PNG slices
 - [http://www.cse.chalmers.se/edu/year/2017/course/TDA362/grid.pdf] :page_facing_up: A Fast Voxel Traversal Algorithm for Ray Tracking, by Amanatides and Woo
 
 ## Physics
