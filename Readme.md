@@ -80,6 +80,7 @@ Key -
 ## Proceduralism
 
 - [Eric's MagicaVoxel Shaders](https://github.com/CodingEric/Erics-MagicaVoxel-Shaders-Collection) :computer:
+- [Lachlan's MagicaVoxel Shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders) :computer:
 
 ## Tools
 
