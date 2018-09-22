@@ -65,7 +65,7 @@ Key -
 
 ## Rendering
 
-- [Fast Ray Box Intersections](http://www.jcgt.org/published/0007/03/04/) :page_facing_up: A Ray-Box Intersection Algorithm and
+- [Fast Ray Box Intersections](http://www.jcgt.org/published/0007/03/04/) :computer: :page_facing_up: A Ray-Box Intersection Algorithm and
 Efficient Dynamic Voxel Rendering
 - [Voxel Rendering Techniques](https://medium.com/@fogleman/voxel-rendering-techniques-fa8d869457ca) :page_facing_up: Optimal triangulation & more
 - [CPU Sparse Voxel Octree](https://github.com/tunabrain/sparse-voxel-octrees) :computer: tunabrain's SVO raytracer
