@@ -33,6 +33,7 @@ Key -
 ## File Loaders
 
 - [EnkiMI](https://github.com/dougbinks/enkiMI) :computer: Enki Minecraft file loader
+- https://github.com/aiekick/MagicaVoxel_File_Writer Aiekick's Magica Voxel file writer
 
 ## Mapping
 
