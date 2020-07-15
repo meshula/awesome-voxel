@@ -86,6 +86,7 @@ Efficient Dynamic Voxel Rendering
 - [Eric's MagicaVoxel Shaders](https://github.com/CodingEric/Erics-MagicaVoxel-Shaders-Collection) :computer:
 - [Lachlan's MagicaVoxel Shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders) :computer:
 - [Goxel's voxel shape grammar](https://blog.noctua-software.com/goxel-procedural.html) :computer:
+- [patStar's MagicaVoxel Shaders](https://github.com/patStar/voxelShader) :computer:
 
 ## Tools
 
