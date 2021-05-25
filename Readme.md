@@ -10,31 +10,26 @@ Key -
 
 ## Contents
 
-- [Sparse Volumes](#sparse-volumes)
-- [File Loaders](#file-loaders)
-- [Mapping](#mapping)
-- [Voxelizers](#voxelizers)
-- [Surfacers](#surfacers)
-- [Wavefront Collapse](#wavefront-collapse)
 - [Deformations](#deformations)
-- [Rendering](#rendering)
+- [File Loaders](#file-loaders)
+- [Foundations](#foundations)
+- [Mapping](#mapping)
 - [Physics](#physics)
 - [Proceduralism](#proceduralism)
+- [Reconstruction](#reconstruction)
+- [Rendering](#rendering)
+- [Sparse Volumes](#sparse-volumes)
+- [Surfacers](#surfacers)
 - [Tools](#tools)
+- [Voxelizers](#voxelizers)
+- [Wavefront Collapse](#wavefront-collapse)
+
 - [Contribute](#contribute)
 - [License](#license)
 
 ## Foundations
 
-- (https://www.merl.com/publications/docs/TR2000-15.pdf) :page_facing_up: 
-
-MITSUBISHI ELECTRIC RESEARCH LABORATORIES
-http://www.merl.com
-Adaptively Sampled Distance Fields: A
-General Representation of Shape for
-Computer Graphics
-Sarah F. Frisken, Ronald N. Perry, Alyn P. Rockwood, Thouis R. Jones
-TR2000-15 December 2000
+- (https://www.merl.com/publications/docs/TR2000-15.pdf) :page_facing_up: Adaptively Sampled Distance Fields: A General Representation of Shape for Computer Graphics, Sarah F. Frisken, Ronald N. Perry, Alyn P. Rockwood, Thouis R. Jones, TR2000-15 December 2000
 
 ## Sparse Volumes
 
