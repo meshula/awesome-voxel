@@ -23,7 +23,6 @@ Key -
 - [Tools](#tools)
 - [Voxelizers](#voxelizers)
 - [Wavefront Collapse](#wavefront-collapse)
-
 - [Contribute](#contribute)
 - [License](#license)
 
