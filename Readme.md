@@ -63,6 +63,10 @@ TR2000-15 December 2000
 - [Voxel Hashing](https://github.com/niessner/VoxelHashing) :computer: Voxel Hashing, by Niessner et al, Siggraph Asia 2017
 - [Voxel Panda](https://github.com/ooper-shlab/VoxelPanda-Swift) Using SceneKit and ModelIO to voxelize a mesh, in Swift
 
+## Reconstruction
+
+- [https://github.com/vsitzmann/deepvoxels] :computer: :page_facing_up: Deep Voxels has a neural rendering function that uses voxel occupancy for an occlusion estimate.
+
 ## Surfacers
 - [https://github.com/emilk/Dual-Contouring] :computer: Dual Contouring
 - [https://github.com/nickgildea/fast_dual_contouring] Dual contouring, includes a SIMD QEF implementation
