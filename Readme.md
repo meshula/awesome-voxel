@@ -55,6 +55,7 @@ Key -
 - [Haar Tree](https://github.com/mikolalysenko/haar-tree-3d) :computer: Haar Tree
 - [Voxel Hashing](https://github.com/niessner/VoxelHashing) :computer: Voxel Hashing, by Niessner et al, Siggraph Asia 2017
 - [Voxel Panda](https://github.com/ooper-shlab/VoxelPanda-Swift) Using SceneKit and ModelIO to voxelize a mesh, in Swift
+- [FileToVox](https://github.com/Zarbuz/FileToVox) Convert files to MagicaVoxel format
 
 ## Reconstruction
 
