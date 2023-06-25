@@ -6,7 +6,7 @@ Projects and resources relating to coding for Voxels
 
 Do you have any favorite articles, repos, cool demos? Please submit them in Issues or a PR!
 
-Contributions are welcome - see the[contribution guidelines](contributing.md)
+Contributions are welcome - see the [contribution guidelines](contributing.md)
 
 ## Key -
 
