@@ -2,6 +2,12 @@
 
 Projects and resources relating to coding for Voxels
 
+## Contribute
+
+Do you have any favorite articles, repos, cool demos? Please submit them in Issues or a PR!
+
+Contributions are welcome - see the[contribution guidelines](contributing.md)
+
 Key -
 
 - :page_facing_up: Research project or paper
@@ -107,9 +113,6 @@ Efficient Dynamic Voxel Rendering
 - [VoxQL](https://github.com/heptal/VoxQL) :computer: :art: QuickLook Generator for MagicaVoxel files on Mac.
 - [https://github.com/mikelovesrobots/mmmm] A collection of everything needed to populate a city
 
-## Contribute
-
-Contributions are welcome - see the[contribution guidelines](contributing.md)
 
 ## License
 
