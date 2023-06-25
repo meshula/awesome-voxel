@@ -8,7 +8,7 @@ Do you have any favorite articles, repos, cool demos? Please submit them in Issu
 
 Contributions are welcome - see the[contribution guidelines](contributing.md)
 
-Key -
+## Key -
 
 - :page_facing_up: Research project or paper
 - :computer: Code
