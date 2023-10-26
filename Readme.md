@@ -66,6 +66,7 @@ Contributions are welcome - see the [contribution guidelines](contributing.md)
 ## Reconstruction
 
 - [https://github.com/vsitzmann/deepvoxels] :computer: :page_facing_up: Deep Voxels has a neural rendering function that uses voxel occupancy for an occlusion estimate.
+- [https://github.com/masked-spacetime-hashing/msth] 💻 📄 Masked Space-Time Hash Encoding for Efficient Dynamic Scene Reconstruction - MSTH represents a dynamic scene as a weighted combination of a 3D hash encoding and a 4D hash encoding.
 
 ## Surfacers
 - [https://github.com/emilk/Dual-Contouring] :computer: Dual Contouring
