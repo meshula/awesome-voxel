@@ -41,10 +41,11 @@ Contributions are welcome - see the [contribution guidelines](contributing.md)
 - [OpenVdb](http://www.openvdb.org/) :computer: Dreamworks' hierarchical sparse volume representation and manipulation library
 - [OctoMap](http://octomap.github.io/) :computer: :art: An Efficient Probabilistic 3D Mapping Framework Based on Octrees
 
-## File Loaders
+## File I/O
 
 - [EnkiMI](https://github.com/dougbinks/enkiMI) :computer: Enki Minecraft file loader
-- https://github.com/aiekick/MagicaVoxel_File_Writer Aiekick's Magica Voxel file writer
+- [MagicaVoxel File Writer](https://github.com/aiekick/MagicaVoxel_File_Writer) Aiekick's Magica Voxel file writer
+- [voxel i/o](https://github.com/Eisenwave/voxel-io) C++17 reader/writer of a variety of voxel formats
 
 ## Mapping
 
@@ -54,6 +55,7 @@ Contributions are welcome - see the [contribution guidelines](contributing.md)
 
 ## Voxelizers
 
+- [obj2voxel](https://github.com/Eisenwave/obj2voxel) :computer: :art: C++ voxelizer based on triangle subdivision
 - [VoxSurf](https://github.com/sylefeb/VoxSurf) :computer: :art: C++ surface voxelizer; converts STL files to VOX files
 - [SdfGen](https://github.com/christopherbatty/SDFGen) :computer: :art: commandline utility to generate grid-based signed distance fields from triangle meshes
 - [Voxelizer](https://github.com/karimnaaji/voxelizer) :computer: Header only voxelizer in C
