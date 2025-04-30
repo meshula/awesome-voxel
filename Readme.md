@@ -34,7 +34,7 @@ Contributions are welcome - see the [contribution guidelines](contributing.md)
 
 ## Foundations
 
-- (https://www.merl.com/publications/docs/TR2000-15.pdf) :page_facing_up: Adaptively Sampled Distance Fields: A General Representation of Shape for Computer Graphics, Sarah F. Frisken, Ronald N. Perry, Alyn P. Rockwood, Thouis R. Jones, TR2000-15 December 2000
+- [Adaptively Sampled Distance Fields](https://www.merl.com/publications/docs/TR2000-15.pdf) :page_facing_up: Adaptively Sampled Distance Fields: A General Representation of Shape for Computer Graphics, Sarah F. Frisken, Ronald N. Perry, Alyn P. Rockwood, Thouis R. Jones, TR2000-15 December 2000
 
 ## Sparse Volumes
 
@@ -49,7 +49,7 @@ Contributions are welcome - see the [contribution guidelines](contributing.md)
 
 ## Mapping
 
-- [https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf] :page_facing_up: State of the Art on 3D Reconstruction with RGB-D Cameras
+- [RGBD recontruction](https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf) :page_facing_up: State of the Art on 3D Reconstruction with RGB-D Cameras
 - [voxblox](https://github.com/ethz-asl/voxblox) :computer: :art:  A volumetric library that stores Truncated Signed Distance Fields in voxels
 - [tsdf Fusion](https://github.com/andyzeng/tsdf-fusion) :computer: Fusing Truncated Signed Distance Files
 
@@ -67,8 +67,8 @@ Contributions are welcome - see the [contribution guidelines](contributing.md)
 
 ## Reconstruction
 
-- [https://github.com/vsitzmann/deepvoxels] :computer: :page_facing_up: Deep Voxels has a neural rendering function that uses voxel occupancy for an occlusion estimate.
-- [https://github.com/masked-spacetime-hashing/msth] 💻 📄 Masked Space-Time Hash Encoding for Efficient Dynamic Scene Reconstruction - MSTH represents a dynamic scene as a weighted combination of a 3D hash encoding and a 4D hash encoding.
+- [Deep Voxels](https://github.com/vsitzmann/deepvoxels) :computer: :page_facing_up: Deep Voxels has a neural rendering function that uses voxel occupancy for an occlusion estimate.
+- [Masked Space Time Hash Encoding](https://github.com/masked-spacetime-hashing/msth) 💻 📄 Masked Space-Time Hash Encoding for Efficient Dynamic Scene Reconstruction - MSTH represents a dynamic scene as a weighted combination of a 3D hash encoding and a 4D hash encoding.
 
 ## Surfacers
 - [https://github.com/emilk/Dual-Contouring] :computer: Dual Contouring
