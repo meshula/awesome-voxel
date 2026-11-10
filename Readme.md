@@ -117,6 +117,7 @@ Efficient Dynamic Voxel Rendering
 - [VoxelDraft](https://voxeldraft.com/en/voxel-model-maker/) :art: Browser-based voxel editor for creating, animating, sharing, and exporting voxel art and game assets.
 - [VoxQL](https://github.com/heptal/VoxQL) :computer: :art: QuickLook Generator for MagicaVoxel files on Mac.
 - [https://github.com/mikelovesrobots/mmmm] A collection of everything needed to populate a city
+- [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) :art: Browser image-to-block planning tool with material lists and Java structure NBT export.
 
 
 ## License
