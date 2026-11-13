@@ -115,6 +115,7 @@ Efficient Dynamic Voxel Rendering
 - [Goxel](http://guillaumechereau.github.io/goxel/) :computer: :art: Open Source 3D voxel editor for Mac, Windows, iOS, and Linux.
 - [Vengi](https://mgerhardy.github.io/engine/) :computer: :art: Cross platform voxel engine and tools like voxel editor, converter, and thumbnailer.
 - [VoxelDraft](https://voxeldraft.com/en/voxel-model-maker/) :art: Browser-based voxel editor for creating, animating, sharing, and exporting voxel art and game assets.
+- [Voidless Voxel Editor](https://voidless.dev/tools/voxel-editor) :art: Free browser voxel editor with box, line and mirror tools; exports MagicaVoxel .vox, GLB, OBJ and 8-direction pixel-art sprites for 2D games.
 - [VoxQL](https://github.com/heptal/VoxQL) :computer: :art: QuickLook Generator for MagicaVoxel files on Mac.
 - [https://github.com/mikelovesrobots/mmmm] A collection of everything needed to populate a city
 
