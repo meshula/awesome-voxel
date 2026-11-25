@@ -116,6 +116,7 @@ Efficient Dynamic Voxel Rendering
 - [Vengi](https://mgerhardy.github.io/engine/) :computer: :art: Cross platform voxel engine and tools like voxel editor, converter, and thumbnailer.
 - [Froxel](https://github.com/theromis/Froxel) :computer: :art: Open source voxel editor in Rust for macOS, Windows, Linux, and FreeBSD, with a GPU path tracer, glTF export with bones and clips, Rhai generator scripts that Godot and Blender can drive live, and an MCP server so AI agents can build models.
 - [VoxelDraft](https://voxeldraft.com/en/voxel-model-maker/) :art: Browser-based voxel editor for creating, animating, sharing, and exporting voxel art and game assets.
+- [VoxiGen](https://voxigen.io/en/studio) :art: Browser-based WebGPU voxel editor and scene builder; .vox import/export, voxelizes GLB models and images, exports game levels.
 - [Voidless Voxel Editor](https://voidless.dev/tools/voxel-editor) :art: Free browser voxel editor with box, line and mirror tools; exports MagicaVoxel .vox, GLB, OBJ and 8-direction pixel-art sprites for 2D games.
 - [VoxQL](https://github.com/heptal/VoxQL) :computer: :art: QuickLook Generator for MagicaVoxel files on Mac.
 - [https://github.com/mikelovesrobots/mmmm] A collection of everything needed to populate a city
