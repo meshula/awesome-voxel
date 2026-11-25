@@ -120,6 +120,7 @@ Efficient Dynamic Voxel Rendering
 - [Voidless Voxel Editor](https://voidless.dev/tools/voxel-editor) :art: Free browser voxel editor with box, line and mirror tools; exports MagicaVoxel .vox, GLB, OBJ and 8-direction pixel-art sprites for 2D games.
 - [VoxQL](https://github.com/heptal/VoxQL) :computer: :art: QuickLook Generator for MagicaVoxel files on Mac.
 - [https://github.com/mikelovesrobots/mmmm] A collection of everything needed to populate a city
+- [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) :art: Browser image-to-block planning tool with material lists and Java structure NBT export.
 
 
 ## License
